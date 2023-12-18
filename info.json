@@ -1,1 +1,27 @@
-
+{"name":"MesoReefDAO",
+"tokenSymbol":"",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"MesoReefDAO aims to regenerate coral reef conservation by employing innovative tools and methodologies from DeSci and Web3 technologies. Conserving coral reefs within the Mesoamerican region is critical due to the significant threats posed by climate change and human activities. Through the utilization of decentralized science, applied blockchain solutions, and innovative technologies, we aspire to create a regenerative future for these ecosystems.",
+"whitePaperLink":"https://www.notion.so/MesoReefDAO-861af9626bcf41d792487dcbfe1f4ae8",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/iWyH468.png",
+       "source": "image",
+       "link": "https://thepass.to/dao/MesoReefDAO/DAOPage"}
+   ],
+"deleted": false, 
+"primaryColor":"#5dbcc2",
+"twitterHandle":"@MesoReefDAO",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/dVXG7nD.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://linktr.ee/mesoreefdao",
+"tokenDescription":"The MesoReef Legacy Tokens commemorate the initial supporters of MesoReefDAO's JuiceBox project. By acquiring these NFTs, early backers etch their legacy in the ongoing mission to preserve and restore the precious coral reefs of the Mesoamerican region. An special vote for future proposals in governance.",
+"tokenTradeLink":"",
+"tags":["Ecosystems", "Decentralized biotech", "Focused Research", "Decentralized funding", "Philanthropy", "Data Storage", "Blockchain protocols", "NFTs", "Decentralized Computing"]
+  
+}
